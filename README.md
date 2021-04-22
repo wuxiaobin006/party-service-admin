@@ -1,4 +1,4 @@
-# zhsj-old-admin
+# party-service-admin
 
 > 这是一个基于 vue admin 的管理后台。
 
